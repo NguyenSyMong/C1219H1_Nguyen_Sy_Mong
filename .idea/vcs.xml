@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module1/B1_NhapMonLapTrinhCanBan/ThucHanh/CloneProjectTuGitHub/wf-hello" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module1/B1_NhapMonLapTrinhCanBan/ThucHanh/SuDungpseudo-code&amp;FlowchartDeMoTaGiaThuat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module1/B1_NhapMonLapTrinhCanBan/ThucHanh/TaoProjectMoiTrenGitHub/my-new-project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Module1/B1_NhapMonLapTrinhCanBan/ThucHanh/taoduanmoitrengithub" vcs="Git" />
   </component>
 </project>
